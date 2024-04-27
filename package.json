@@ -1,5 +1,5 @@
 {
-  "name": "strapi-provider-email-aliyungd",
+  "name": "strapi-provider-email-aliyunluke",
   "version": "1.0.2",
   "description": "",
   "main": "./lib/index.js",
@@ -14,10 +14,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LukeGongde/strapi-provider-email-aliyunluke"
+    "url": "git+https://github.com/LukeGongde/strapi-provider-email-aliyunluke.git"
   },
-    "homepage": "https://github.com/LukeGongde/strapi-provider-email-aliyunluke#readme",
-    "bugs": {
-      "url": " https://github.com/LukeGongde/strapi-provider-email-aliyunluke/issues"
+  "homepage": "https://github.com/LukeGongde/strapi-provider-email-aliyunluke#readme",
+  "bugs": {
+    "url": " https://github.com/LukeGongde/strapi-provider-email-aliyunluke/issues"
   }
 }
